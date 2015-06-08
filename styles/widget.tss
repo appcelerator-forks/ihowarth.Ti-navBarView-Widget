@@ -1,6 +1,6 @@
 "#navBarView" : {
-	top  			: 0,
-	height			: 50,
+	top  		: 0,
+	height		: 50,
 	backgroundColor : "#007aff"
 },
 
