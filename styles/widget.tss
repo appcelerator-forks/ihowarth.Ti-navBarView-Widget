@@ -1,0 +1,31 @@
+"#navBarView" : {
+	top  			: 0,
+	height			: 50,
+	backgroundColor : "#007aff"
+},
+
+"#leftButtonLabel" : {
+	left  : 20,
+	color : "#fff"
+},
+
+"#titleLabel" : {
+	color : "#fff",
+	text  : ""
+},
+
+"#rightButtonLabel" : {
+	right : 20,
+	color : "#fff"
+},
+
+// Done because of the iOS status bar 
+"#leftButtonLabel[platform=ios]" : {
+	top : 20
+},
+"#titleLabel[platform=ios]" : {
+	top : 20
+},
+"#rightButtonLabel[platform=ios]" : {
+	top : 20
+}

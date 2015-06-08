@@ -1,0 +1,7 @@
+<Alloy>
+	<View id="navBarView">
+		<Label id="leftButtonLabel"/>
+		<Label id="titleLabel"/>
+		<Label id="rightButtonLabel"/>
+	</View>
+</Alloy>
